@@ -162,3 +162,17 @@ git remote add orgin https://github.com/ramesh693/testrepo3.git
 git push -u origin master
 clear
 exit
+git touch ram
+touch
+git clone https://github.com/ramesh693/test-repo4.git
+touch ram
+git add.
+add.
+git add .
+git status _s
+git commit -m
+git commit -m ram
+git push orgin master
+git log
+clear
+exit
